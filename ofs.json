@@ -1,0 +1,15 @@
+{
+    "EnableLoadModule":                     "0x75a0a98",
+    "FakeDataModelPointer":                 "0x7c1a148",
+    "FakeDataModelToDataModel":             "0x1d0",
+    "Children":                             "0x78",
+    "ChildrenEnd":                          "0x8",
+    "Name":                                 "0xb0",
+    "Value":                                "0xd0",
+    "InstanceSelf":                         "0x8",
+    "ClassDescriptor":                      "0x18",
+    "ClassDescriptorToClassName":           "0x8",
+    "LocalScriptByteCode":                  "0x1a8",
+    "ModuleScriptByteCode":                 "0x150",
+    "WebSocketServiceEnableClientCreation": "0x76625d8"
+}
